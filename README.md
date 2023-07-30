@@ -1,4 +1,4 @@
-# Life: macOS Catalina Interface using HTML, CSS, JS
+# macOS Catalina Interface using HTML, CSS, JS
 
 ## Overview
 
